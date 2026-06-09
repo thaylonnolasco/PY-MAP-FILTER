@@ -1,0 +1,1 @@
+# Python - map e filter
